@@ -4,10 +4,10 @@
 **Supervisor:** Roman Golman (Prof. Adam Teman's Research Group)
 
 ## 📌 Project Overview
-My graduation project focusing on optimizing **Data Retention Time (DRT)** for Gain-Cell embedded DRAM to improve energy efficiency and maximize memory availability by reducing refresh downtime. The project involved developing Verilog behavioral models to emulate memory volatility, designing a smart, LUT-based adaptive refresh controller, and performing extensive silicon profiling.
+This project focuses on optimizing the **Data Retention Time (DRT)** for Gain-Cell embedded DRAM (GC-eDRAM) to improve overall memory energy efficiency and maximize memory availability by reducing refresh downtime. 
 
 ## 💡 System Architecture
-![Block Diagram](OPT_GC_DRAM_4096_SCHEMATIC.png)
+![Block Diagram](OPT_DRT_GC_DRAM_SCHEMATIC.png)
 
 ## 📊 Statistical Distribution & Decay
 ![Statistical Distribution](mc_DRT_16384.png)
@@ -15,3 +15,6 @@ My graduation project focusing on optimizing **Data Retention Time (DRT)** for G
 
 ## 🧪 Simulation Results
 ![Simulation Waveform](OPT_GC_DRAM_4096_waveform.png)
+
+---
+*Developed as part of the B.Sc. Electrical Engineering curriculum at Bar-Ilan University, specializing in Nanoelectronics and Optics.*
